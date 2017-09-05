@@ -1,0 +1,32 @@
+/* styles */
+/* called by your view template */
+
+/* You might want to try something fancier: */
+/* less: http://lesscss.org/ */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 25px;
+  background:black;
+}
+
+h1 {
+  font-weight: bold;
+  color: pink;
+  text-align:center
+}
+p{
+  color:red;
+  text-align:center
+}
+h2{
+  color: green;
+  text-align:center
+}
+span{
+  color:green;
+}
